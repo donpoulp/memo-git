@@ -1,0 +1,2 @@
+# memo-git
+exo memo
